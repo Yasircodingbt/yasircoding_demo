@@ -1,3 +1,4 @@
 # yasircoding_demo
 this is my first repository
-author ... yasir bt
+<br>
+Author - Yasir bt
