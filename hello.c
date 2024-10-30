@@ -1,4 +1,5 @@
 #include<stdio.h>
+void pak();
 int main(){
      int i,j,n;
      printf("enter a num :");
@@ -7,7 +8,9 @@ int main(){
      {
        printf("%d *%i = %d \n",n,i,n*i);
      }        
-     
-return 0;
-}
+       pak();
+return 0;}
+void pak(){
+  printf("nice work yasir \n");
   
+}
